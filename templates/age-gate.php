@@ -88,6 +88,7 @@ session_start();
         </form>
         <?php endif; ?>
     </section>
+    
     <?php wp_footer(); ?>
 </body>
 </html>

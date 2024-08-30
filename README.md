@@ -4,8 +4,8 @@ The **Cannabis Age Gate** plugin adds a Canadian-compliant age verification gate
 
 ## Features
 
-- **Custom Age Gate Page**: A dedicated age gate page that users must pass through to enter the website.
-- **Province-Specific Legal Age**: Automatically calculates legal age based on the selected province (19 by default, 18 for Alberta, 21 for Quebec).
+- **Custom Age Gate Page**: A dedicated age gate page that users must pass through to enter the website
+- **Province-Specific Legal Age**: Automatically calculates legal age based on the selected province (19 by default, 18 for Alberta, 21 for Quebec)
 - **Session and Cookie Management**: Users who pass the age gate will have their session extended via cookies, allowing them to browse the site without repeated verifications.
 - **Admin Options**: Configurable settings using Advanced Custom Fields (ACF) in the WordPress admin dashboard.
 

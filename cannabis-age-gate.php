@@ -3,7 +3,7 @@
 Plugin Name: Cannabis Age Gate
 Description: Adds a Canadian compliant age gate to your website.
 Author: EC
-Version: 0.1
+Version: 0.2
 */
 
 // Prevent direct access to the file.
